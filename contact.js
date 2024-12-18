@@ -8,6 +8,9 @@ const ContactPage = () => {
       <Header />
       <main>
         <h2>Contact Us</h2>
+        <p>Email: support@example.com</p>
+
+        <p>Email: support@example.com</p>
       </main>
       <Footer />
     </div>
